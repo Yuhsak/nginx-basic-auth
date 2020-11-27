@@ -1,6 +1,6 @@
 # nginx-basic-auth
 
-Simple HTTP Basic Authentication Docker Container using nginx
+Simple HTTP Basic Authentication Docker Container using nginx.
 
 ## Usage
 
